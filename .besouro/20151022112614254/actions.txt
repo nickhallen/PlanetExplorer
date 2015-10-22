@@ -1,0 +1,30 @@
+FileOpenedAction 1445502374359 PlanetExplorer.java 1342 2 1 0
+FileOpenedAction 1445504587516 BowlingGame.java 778 5 6 0
+UnitTestCaseAction 1445504784135 TestBowlingScoreCalculator.java FAIL
+UnitTestSessionAction 1445504784137 TestBowlingScoreCalculator FAIL
+FileOpenedAction 1445506045798 SudokuVerifier.java 773 4 8 0
+FileOpenedAction 1445506047404 TestSudokuVerifier.java 1468 6 12 6
+RefactoringAction 1445506336239 PlanetExplorer.java ADD import java.awt.GridLayout IMPORT
+RefactoringAction 1445506341818 PlanetExplorer.java ADD import javax.swing.JPanel IMPORT
+RefactoringAction 1445506361401 PlanetExplorer.java ADD import com.sun.java.util.jar.pack.Package.Class.Field IMPORT
+RefactoringAction 1445506378127 PlanetExplorer.java REMOVE import com.sun.java.util.jar.pack.Package.Class.Field IMPORT
+RefactoringAction 1445506625458 PlanetExplorer.java ADD import java.awt.Component IMPORT
+FileOpenedAction 1445508520698 TestSudokuVerifier.java 1468 6 12 6
+FileOpenedAction 1445508634219 TestSudokuVerifier.java 1468 6 12 6
+RefactoringAction 1445509177101 TestPlanetExplorer.java ADD void testSizeOfPlanet() METHOD
+RefactoringAction 1445509184143 TestPlanetExplorer.java ADD void testCorrectLandingPosition() METHOD
+RefactoringAction 1445509184144 TestPlanetExplorer.java ADD void test81StringsInCorrectString() METHOD
+RefactoringAction 1445509184145 TestPlanetExplorer.java ADD void test81StringsInCorrectString()/2 METHOD
+RefactoringAction 1445509187662 TestPlanetExplorer.java REMOVE test81StringsInCorrectString()/2 METHOD
+RefactoringAction 1445509187664 TestPlanetExplorer.java REMOVE test81StringsInCorrectString() METHOD
+RefactoringAction 1445509187664 TestPlanetExplorer.java REMOVE testSizeOfPlanet() METHOD
+RefactoringAction 1445509187665 TestPlanetExplorer.java REMOVE testCorrectLandingPosition() METHOD
+FileOpenedAction 1445509192659 TestSudokuVerifier.java 1468 6 12 6
+RefactoringAction 1445509289035 TestPlanetExplorer.java ADD void testSizeOfPlanet() METHOD
+RefactoringAction 1445509289036 TestPlanetExplorer.java ADD void testCorrectLandingPosition() METHOD
+RefactoringAction 1445509289036 TestPlanetExplorer.java ADD void testPositionAfterCommandR() METHOD
+RefactoringAction 1445509289037 TestPlanetExplorer.java ADD void testPositionAfterCommandL() METHOD
+RefactoringAction 1445509289037 TestPlanetExplorer.java ADD void testPositionAfterCommandL()/2 METHOD
+RefactoringAction 1445509318055 TestPlanetExplorer.java RENAME testPositionAfterCommandL()/2=>void testCurrent() METHOD
+RefactoringAction 1445509319573 TestPlanetExplorer.java RENAME testCurrent()=>void testCurrentFacing() METHOD
+EditAction 1445509324565 TestPlanetExplorer.java 660 6 1 0
