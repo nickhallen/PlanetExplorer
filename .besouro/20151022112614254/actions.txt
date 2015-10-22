@@ -28,3 +28,8 @@ RefactoringAction 1445509289037 TestPlanetExplorer.java ADD void testPositionAft
 RefactoringAction 1445509318055 TestPlanetExplorer.java RENAME testPositionAfterCommandL()/2=>void testCurrent() METHOD
 RefactoringAction 1445509319573 TestPlanetExplorer.java RENAME testCurrent()=>void testCurrentFacing() METHOD
 EditAction 1445509324565 TestPlanetExplorer.java 660 6 1 0
+CompilationAction 1445509325818 TestPlanetExplorer.java
+CompilationAction 1445509325819 TestPlanetExplorer.java
+CompilationAction 1445509325819 TestPlanetExplorer.java
+CompilationAction 1445509325819 TestPlanetExplorer.java
+EditAction 1445509728576 PlanetExplorer.java 1856 2 1 0
