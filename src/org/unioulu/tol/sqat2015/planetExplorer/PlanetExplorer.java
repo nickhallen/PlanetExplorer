@@ -6,8 +6,8 @@ import java.awt.GridLayout;
 import javax.swing.JPanel;
 
 // Before submitting write your ID and finish time here. Your ID is written on project description sheets.
-// ID:
-// Finish time:
+// ID:126
+// Finish time:13:31
 public class PlanetExplorer {
 	public PlanetExplorer(int x, int y, String obstacles){
 		
